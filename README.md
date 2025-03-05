@@ -5,7 +5,7 @@
 
 ## Instructions for Running Code
 
-###Install dependencies
+### Install dependencies
 (Students must create an `environment` and list dependencies)
 
 ### Run the script
