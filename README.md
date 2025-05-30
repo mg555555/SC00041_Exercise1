@@ -41,3 +41,6 @@ bash
 Copy
 Edit
 python3 analyze_text.py
+
+## License
+This project is licensed under the GNU General Public License v3.0. See the LICENSE file for details.
