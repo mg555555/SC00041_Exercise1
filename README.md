@@ -32,7 +32,7 @@ Line Chars Uppercase % Upper
 1. Make sure you have Python 3 installed.
 2. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/text-analyzer.git
+   git clone https://github.com/mg555555/SC00041_Exercise1.git
    cd text-analyzer
 
    Run the script:
