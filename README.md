@@ -35,12 +35,8 @@ Line Chars Uppercase % Upper
    git clone https://github.com/mg555555/SC00041_Exercise1.git
    cd text-analyzer
 
-   Run the script:
-
-bash
-Copy
-Edit
-python3 analyze_text.py
+Run the script:
+   python3 analyze_text.py
 
 ## License
 This project is licensed under the GNU General Public License v3.0. See the LICENSE file for details.
