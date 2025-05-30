@@ -36,6 +36,7 @@ Line Chars Uppercase % Upper
    cd text-analyzer
 
 Run the script:
+   ```bash
    python3 analyze_text.py
 
 ## License
