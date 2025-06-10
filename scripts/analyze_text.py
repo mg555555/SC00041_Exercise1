@@ -1,4 +1,4 @@
-my_file = "/home/user/Desktop/sample.txt"
+my_file = "../test_data/sample.txt"
 
 print("Line\tChars\tUppercase\t% Upper")
 

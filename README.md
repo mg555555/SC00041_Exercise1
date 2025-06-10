@@ -5,8 +5,8 @@ This project contains a simple Python script that analyzes the content of a text
 
 ## Files
 
-- `analyze_text.py`: The main Python script that performs the analysis.
-- `sample.txt`: A sample text file to be analyzed. You can replace this with any `.txt` file of your choice.
+- `scripts/analyze_text.py`: The main Python script that performs the analysis.
+- `test_data/sample.txt`: A sample text file to be analyzed. You can replace this with any `.txt` file of your choice.
 
 ## How It Works
 
@@ -31,10 +31,12 @@ Line Chars Uppercase % Upper
 ## Usage
 
 1. Make sure you have Python 3 installed.
-2. Clone this repository:
+2. Put the text file to be analyzed in `test_data/.`
+3. Clone this repository:
    ```bash
    git clone https://github.com/mg555555/SC00041_Exercise1.git
-   cd text-analyzer
+   cd scripts
+   ```
 
 Run the script:
 
