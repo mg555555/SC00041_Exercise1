@@ -41,7 +41,7 @@ Line Chars Uppercase % Upper
 Run the script:
 
    ```bash
-   python3 analyze_text.py
+   python analyze_text.py
    ```
 ## License 
 
